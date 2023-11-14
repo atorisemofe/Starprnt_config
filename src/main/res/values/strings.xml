@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Star CloudPRNT Configuration</string>
+    <string name="app_info">This app demonstrates how we can leverage the StarXpand SDK to setup a printer.\n\nIn this example, we will setup the printer to use our CloudPRNT technology in a simple, transparent way. This provides a simple, effective way for ISVs to perform an initial first-time setup once the user has received their printer, without added cost or requiring on-site or remote support. </string>
+</resources>
